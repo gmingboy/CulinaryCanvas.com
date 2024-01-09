@@ -1,1 +1,1 @@
-# CulinaryCanvas.com
+# CulinaryCanvas
